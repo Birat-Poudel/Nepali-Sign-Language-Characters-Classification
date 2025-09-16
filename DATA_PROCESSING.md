@@ -1,4 +1,6 @@
-# tfrecord.py Detailed Explanation
+# Data Processing Guide
+
+This document explains the `tfrecord.py` script used for converting Nepali Sign Language Character images into TensorFlow Record (TFRecord) format.
 
 ## Overview
 This script converts Nepali Sign Language images into TensorFlow Record (TFRecord) format for efficient machine learning training. TFRecords are TensorFlow's binary storage format that provides fast I/O and reduced memory usage during training.
@@ -10,6 +12,7 @@ This script converts Nepali Sign Language images into TensorFlow Record (TFRecor
 import os
 import random
 import tensorflow as tf
+
 from tqdm import tqdm
 from sklearn.model_selection import train_test_split
 ```
