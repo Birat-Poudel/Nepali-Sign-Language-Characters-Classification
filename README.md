@@ -11,6 +11,7 @@ The dataset contains images of Nepali Sign Language characters (0-35) with two b
 - **Random Background**: Images with varied, realistic backgrounds
 
 For detailed data collection information, see [DATA_COLLECTION.md](DATA_COLLECTION.md)
+
 For detailed data processing information, see [DATA_PROCESSING.md](DATA_PROCESSING.md).
 
 ### Dataset Structure
