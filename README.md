@@ -4,7 +4,7 @@ A deep learning project for classifying Nepali Sign Language characters using Te
 
 ## Dataset
 
-**Source**: [Nepali Sign Language Character Dataset](https://www.kaggle.com/datasets/biratpoudelrocks/nepali-sign-language-character-dataset)
+**Download Link**: [Nepali Sign Language Character Dataset](https://www.kaggle.com/datasets/biratpoudelrocks/nepali-sign-language-character-dataset)
 
 The dataset contains images of Nepali Sign Language characters (0-35) with two background types:
 - **Plain Background**: Clean images with uniform backgrounds
