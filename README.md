@@ -1,6 +1,11 @@
-# Nepali Sign Language Classification
+# Nepali Sign Language Characters Classification
 
 A deep learning project for classifying Nepali Sign Language characters using TensorFlow. This project processes sign language images and converts them into TFRecord format for efficient training of neural networks.
+
+- For data collection information, see [DATA_COLLECTION.md](DATA_COLLECTION.md)
+- For data processing information, see [DATA_PROCESSING.md](DATA_PROCESSING.md)
+- For model training information, see [MODEL_TRAINING.md](MODEL_TRAINING.md)
+   - For model training strategies, see [TRAINING_STRATEGIES.md](TRAINING_STRATEGIES.md)
 
 ## Dataset
 
@@ -9,10 +14,6 @@ A deep learning project for classifying Nepali Sign Language characters using Te
 The dataset contains images of Nepali Sign Language characters (0-35) with two background types:
 - **Plain Background**: Clean images with uniform backgrounds
 - **Random Background**: Images with varied, realistic backgrounds
-
-For detailed data collection information, see [DATA_COLLECTION.md](DATA_COLLECTION.md)
-
-For detailed data processing information, see [DATA_PROCESSING.md](DATA_PROCESSING.md)
 
 ### Dataset Structure
 ```
